@@ -1,0 +1,23 @@
+#main_div_id{
+    display:flex;
+    margin: auto;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: antiquewhite;
+}
+#result_div_id{
+    display:flex;
+    margin: auto;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: antiquewhite;
+}
+button{
+    cursor:pointer;
+}
+body{
+    text-align: center;
+}
+li{
+    list-style: none;
+}
